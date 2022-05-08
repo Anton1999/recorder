@@ -1,0 +1,9 @@
+*{
+  font-family: "TT Norms";
+  margin: 0 auto;
+}
+
+body{
+  width: 100%;
+  overflow-x: hidden;
+}
